@@ -1,0 +1,10 @@
+/home/ezgiergun/solana_projects/anchor-subscriptions-newsletetter/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-cf036185c54a6e0c.rmeta: /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/ezgiergun/solana_projects/anchor-subscriptions-newsletetter/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-cf036185c54a6e0c.rlib: /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/ezgiergun/solana_projects/anchor-subscriptions-newsletetter/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-cf036185c54a6e0c.d: /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs:
+/home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs:
+/home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs:
+/home/ezgiergun/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs:
